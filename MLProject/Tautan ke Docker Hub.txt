@@ -1,1 +1,1 @@
-https://hub.docker.com/repository/docker/sandikoprastyo/fifa-player-scout
+https://hub.docker.com/repository/docker/sandicko/fifa-player-scout
